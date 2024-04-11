@@ -19,7 +19,7 @@
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{0DB7E03F-FC29-4DC6-9020-FF41B59E513A}
 2.删除设备图标
 HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace
-3.添加或删除程序失败
+3.去除已卸载程序在“应用和功能”上的显示
 HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall
 4.删除右键菜单
 HKEY_CLASSES_ROOT     ---搜索ShellNew，将想要删除的删掉就行
